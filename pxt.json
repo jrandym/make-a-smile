@@ -19,12 +19,12 @@
         "branch": "v4.0.16",
         "tag": "v4.0.16",
         "commits": "https://github.com/microsoft/pxt-microbit/commits/04b1a5492fb75af626caed5601ee8d794d970dd7",
-        "target": "5.0.12",
+        "target": "7.0.13",
         "pxt": "7.0.12",
         "targetId": "microbit"
     },
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
